@@ -1,0 +1,17 @@
+INFO  | 2020-09-20 16:44:01 | [main] javaPractice.App (App.java:16) - Hello, World Will be printed on Info
+WARN  | 2020-09-20 16:44:01 | [main] javaPractice.App (App.java:17) - Hello, World Will be printed on Warn
+ERROR | 2020-09-20 16:44:01 | [main] javaPractice.App (App.java:18) - Hello, World Will be printed on Error
+FATAL | 2020-09-20 16:44:01 | [main] javaPractice.App (App.java:19) - Hello, World Will be printed on Fatal
+INFO  | 2020-09-20 16:44:01 | [main] javaPractice.App (App.java:20) - Appending string: Hello, World.
+DEBUG | 2020-09-20 16:44:25 | [main] javaPractice.App (App.java:15) - Hello, World Will be printed on Debug
+INFO  | 2020-09-20 16:44:25 | [main] javaPractice.App (App.java:16) - Hello, World Will be printed on Info
+WARN  | 2020-09-20 16:44:25 | [main] javaPractice.App (App.java:17) - Hello, World Will be printed on Warn
+ERROR | 2020-09-20 16:44:25 | [main] javaPractice.App (App.java:18) - Hello, World Will be printed on Error
+FATAL | 2020-09-20 16:44:25 | [main] javaPractice.App (App.java:19) - Hello, World Will be printed on Fatal
+INFO  | 2020-09-20 16:44:25 | [main] javaPractice.App (App.java:20) - Appending string: Hello, World.
+DEBUG | 2020-09-20 16:47:03 | [main] javaPractice.App (App.java:15) - Hello, World Will be printed on Debug
+INFO  | 2020-09-20 16:47:03 | [main] javaPractice.App (App.java:16) - Hello, World Will be printed on Info
+WARN  | 2020-09-20 16:47:03 | [main] javaPractice.App (App.java:17) - Hello, World Will be printed on Warn
+ERROR | 2020-09-20 16:47:03 | [main] javaPractice.App (App.java:18) - Hello, World Will be printed on Error
+FATAL | 2020-09-20 16:47:03 | [main] javaPractice.App (App.java:19) - Hello, World Will be printed on Fatal
+INFO  | 2020-09-20 16:47:03 | [main] javaPractice.App (App.java:20) - Appending string: Hello, World.
