@@ -15,7 +15,7 @@ public class App {
 		LOG.debug(message + " Will be printed on Debug");
 		LOG.info(message + " Will be printed on Info");
 		LOG.warn(message + " Will be printed on Warn");
-		LOG.error(message + " Will be printed on Error");
+		LOG.error(message + " Will be printed on Error and creating conflict");
 		LOG.fatal(message + " Will be printed on Fatal & Good Afternoon");
 		LOG.info("Appending string: {}.", message);
 		System.out.println(message);
