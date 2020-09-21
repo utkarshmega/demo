@@ -16,7 +16,7 @@ public class App {
 		LOG.info(message + " Will be printed on Info");
 		LOG.warn(message + " Will be printed on Warn");
 		LOG.error(message + " Will be printed on Error");
-		LOG.fatal(message + " Will be printed on Fatal");
+		LOG.fatal(message + " Will be printed on Fatal & Good Afternoon");
 		LOG.info("Appending string: {}.", message);
 		System.out.println(message);
 
